@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jordon 👋  
+**Full Stack Engineer • Founder of SoberFriend.io**
 
-<!--
-**cHoMpDiSs/cHoMpDiSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and launch real-world applications that help people — fast.  
+Focused on mission-driven tech, AI tools, and scalable web platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+🧠 [**SoberFriend**](https://soberfriend.io)  
+AI-powered sobriety support platform combining AI mentor chat, message memory, and subscription access. Built for real-time connection, safety, and growth.  
+`Next.js • Supabase • Stripe • GPT-4o • Tailwind • pgvector`
+
+⚡ [**TeslaStats.dev**](https://teslastats.dev)  
+A web dashboard for Tesla owners to track battery health, range, and charging habits over time.  
+`Next.js • Supabase • Chart.js • Vercel`
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend**: React, Next.js, Tailwind, TypeScript  
+- **Backend**: Supabase (RLS, pgvector, functions), Node.js  
+- **Infra**: Vercel, GitHub Actions  
+- **Tools**: Stripe, OpenAI API, LangChain, Chart.js
+
+---
+
+### 📬 Let’s Connect
+- 🌐 [jordonmarchesano.com](https://www.jordonmarchesano.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jordon-m/)
+- 💬 [jordonomarchesano@gmail.com](mailto:jordonomarchesano@gmail.com)
