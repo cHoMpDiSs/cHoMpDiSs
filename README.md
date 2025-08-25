@@ -19,7 +19,7 @@ AI-powered sobriety support platform combining AI mentor chat, message memory, a
 - **Frontend**: React, Next.js, Tailwind, TypeScript  
 - **Backend**: Supabase (RLS, pgvector, functions), Node.js  
 - **Infra**: Vercel, GitHub Actions  
-- **Tools**: Stripe, OpenAI API, LangChain, Chart.js
+- **Tools**: Stripe, OpenAI API, Cursor AI, Claude
 
 ---
 
