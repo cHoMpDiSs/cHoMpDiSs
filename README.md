@@ -12,10 +12,6 @@ Focused on mission-driven tech, AI tools, and scalable web platforms.
 AI-powered sobriety support platform combining AI mentor chat, message memory, and subscription access. Built for real-time connection, safety, and growth.  
 `Next.js • Supabase • Stripe • GPT-4o • Tailwind • pgvector`
 
-⚡ [**TeslaStats.dev**](https://teslastats.dev)  
-A web dashboard for Tesla owners to track battery health, range, and charging habits over time.  
-`Next.js • Supabase • Chart.js • Vercel`
-
 ---
 
 ### 🛠️ Tech Stack
