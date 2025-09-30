@@ -1,5 +1,5 @@
 # Hi, I'm Jordon 👋  
-**Full Stack Engineer • Founder of SoberFriend.io**
+**AI Engineer @ Get Covered**
 
 I build and launch real-world applications that help people — fast.  
 Focused on mission-driven tech, AI tools, and scalable web platforms.
