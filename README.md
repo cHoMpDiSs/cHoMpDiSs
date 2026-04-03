@@ -2,8 +2,8 @@
 **AI Engineer @ Get Covered**
 
 I build and launch real-world applications that help people — fast.  
-Focused on mission-driven tech, AI tools, and scalable web platforms.
-
+Focused on mission-driven tech, AI tools, and scalable web platforms. 
+Coding by day, coding by night.
 ---
 
 ### 🚀 Projects
