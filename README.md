@@ -9,6 +9,7 @@ Coding by day, coding by night.
 ### 🚀 Projects
 
 🧠 [**SoberFriend**](https://soberfriend.io)  
+
 AI-powered Sober living management software and a nationwide treatment directory—helping providers run billing, residents, and compliance while families find the right care. Includes optional AI mentors and smart search.
 Next.js · Supabase · Stripe · OpenAI · Tailwind · Postgres (pgvector where used)
 
