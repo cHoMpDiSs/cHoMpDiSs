@@ -9,8 +9,8 @@ Coding by day, coding by night.
 ### 🚀 Projects
 
 🧠 [**SoberFriend**](https://soberfriend.io)  
-AI-powered sobriety support platform combining AI mentor chat, message memory, and subscription access. Built for real-time connection, safety, and growth.  
-`Next.js • Supabase • Stripe • GPT-4o • Tailwind • pgvector`
+AI-powered Sober living management software and a nationwide treatment directory—helping providers run billing, residents, and compliance while families find the right care. Includes optional AI mentors and smart search.
+Next.js · Supabase · Stripe · OpenAI · Tailwind · Postgres (pgvector where used)
 
 ---
 
