@@ -1,4 +1,4 @@
-# Hi, I'm Jordon
+# Hi, I'm Jordon 👋
 
 **AI Engineer @ Get Covered**
 
