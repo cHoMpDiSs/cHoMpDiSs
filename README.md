@@ -1,6 +1,6 @@
-# Hi, I'm Jordon 👋
-
-**AI Engineer @ Get Covered**
+<p align="center">
+  <img src="assets/header.svg" alt="Hi, I'm Jordon — AI Engineer @ Get Covered" width="100%"/>
+</p>
 
 I build and launch real-world applications that help people — fast.  
 Focused on mission-driven tech, AI tools, and scalable web platforms.  
