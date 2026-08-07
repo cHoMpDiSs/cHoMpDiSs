@@ -42,7 +42,7 @@
     <circle cx="24" cy="19" r="5.5" fill="#ff5f56"/>
     <circle cx="44" cy="19" r="5.5" fill="#ffbd2e"/>
     <circle cx="64" cy="19" r="5.5" fill="#27c93f"/>
-    <text x="440" y="24" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#475569">jordon@getcovered: ~/cHoMpDiSs</text>
+    <text x="440" y="24" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#475569">cHoMpDiSs</text>
 
     <!-- typed command -->
     <g clip-path="url(#type)">
